@@ -1,7 +1,7 @@
 #' Square the input
 #'
 #'
-#'  This will square the input
+#'  This will square the input of the variable
 #' @param x The input vector.
 #'
 #' @return
